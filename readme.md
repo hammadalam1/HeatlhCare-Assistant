@@ -4,7 +4,6 @@ This project is an AI-powered retrieval-based healthcare assistant. It takes sym
 
 The system uses:
 FAISS Vector Database for fast similarity search
-RAG (Retrieval-Augmented Generation) pipeline for retrieving relevant knowledge
 Sentence-Transformers/paraphrase-MiniLM-L3-v2 for creating embeddings of symptoms, diseases, medicines, and precautions
 
 🚀 Features
