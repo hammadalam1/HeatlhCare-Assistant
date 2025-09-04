@@ -1,0 +1,1336 @@
+{
+  "diseases": [
+    {
+      "name": "Flu",
+      "symptoms": [
+        "Fever",
+        "cough",
+        "body ache"
+      ],
+      "medicines": [
+        "Paracetamol"
+      ],
+      "precautions": [
+        "Drink warm fluids and rest"
+      ]
+    },
+    {
+      "name": "Common Cold",
+      "symptoms": [
+        "Sneezing",
+        "runny nose",
+        "sore throat"
+      ],
+      "medicines": [
+        "Antihistamines"
+      ],
+      "precautions": [
+        "Stay hydrated and rest"
+      ]
+    },
+    {
+      "name": "Malaria",
+      "symptoms": [
+        "High fever",
+        "chills",
+        "sweating"
+      ],
+      "medicines": [
+        "Chloroquine"
+      ],
+      "precautions": [
+        "Use mosquito nets and avoid stagnant water"
+      ]
+    },
+    {
+      "name": "Diabetes",
+      "symptoms": [
+        "Frequent urination",
+        "fatigue",
+        "weight loss"
+      ],
+      "medicines": [
+        "Insulin"
+      ],
+      "precautions": [
+        "Maintain balanced diet and exercise"
+      ]
+    },
+    {
+      "name": "Hypertension",
+      "symptoms": [
+        "Headache",
+        "dizziness",
+        "blurred vision"
+      ],
+      "medicines": [
+        "Amlodipine"
+      ],
+      "precautions": [
+        "Reduce salt intake and monitor BP"
+      ]
+    },
+    {
+      "name": "Asthma",
+      "symptoms": [
+        "Wheezing",
+        "shortness of breath",
+        "cough"
+      ],
+      "medicines": [
+        "Salbutamol Inhaler"
+      ],
+      "precautions": [
+        "Avoid allergens and dust"
+      ]
+    },
+    {
+      "name": "Tuberculosis",
+      "symptoms": [
+        "Chronic cough",
+        "weight loss",
+        "night sweats"
+      ],
+      "medicines": [
+        "Rifampicin"
+      ],
+      "precautions": [
+        "Complete full antibiotic course"
+      ]
+    },
+    {
+      "name": "Pneumonia",
+      "symptoms": [
+        "Fever",
+        "chest pain",
+        "cough with phlegm"
+      ],
+      "medicines": [
+        "Azithromycin"
+      ],
+      "precautions": [
+        "Get adequate rest and fluids"
+      ]
+    },
+    {
+      "name": "COVID-19",
+      "symptoms": [
+        "Fever",
+        "dry cough",
+        "loss of smell"
+      ],
+      "medicines": [
+        "Remdesivir"
+      ],
+      "precautions": [
+        "Isolate and wear mask"
+      ]
+    },
+    {
+      "name": "Dengue",
+      "symptoms": [
+        "High fever",
+        "joint pain",
+        "rash"
+      ],
+      "medicines": [
+        "Acetaminophen"
+      ],
+      "precautions": [
+        "Avoid mosquito bites and stay hydrated"
+      ]
+    },
+    {
+      "name": "Typhoid",
+      "symptoms": [
+        "Abdominal pain",
+        "fever",
+        "constipation"
+      ],
+      "medicines": [
+        "Ciprofloxacin"
+      ],
+      "precautions": [
+        "Drink boiled water and eat hygienic food"
+      ]
+    },
+    {
+      "name": "Cholera",
+      "symptoms": [
+        "Watery diarrhea",
+        "dehydration"
+      ],
+      "medicines": [
+        "ORS",
+        "Doxycycline"
+      ],
+      "precautions": [
+        "Maintain hydration and clean water"
+      ]
+    },
+    {
+      "name": "Hepatitis A",
+      "symptoms": [
+        "Jaundice",
+        "fatigue",
+        "abdominal pain"
+      ],
+      "medicines": [
+        "Supportive Care"
+      ],
+      "precautions": [
+        "Practice good hygiene"
+      ]
+    },
+    {
+      "name": "Hepatitis B",
+      "symptoms": [
+        "Dark urine",
+        "jaundice",
+        "nausea"
+      ],
+      "medicines": [
+        "Tenofovir"
+      ],
+      "precautions": [
+        "Avoid alcohol and unsafe needles"
+      ]
+    },
+    {
+      "name": "Hepatitis C",
+      "symptoms": [
+        "Fatigue",
+        "jaundice",
+        "joint pain"
+      ],
+      "medicines": [
+        "Sofosbuvir"
+      ],
+      "precautions": [
+        "Regular liver checkups"
+      ]
+    },
+    {
+      "name": "Chickenpox",
+      "symptoms": [
+        "Itchy rash",
+        "fever",
+        "tiredness"
+      ],
+      "medicines": [
+        "Acyclovir"
+      ],
+      "precautions": [
+        "Avoid scratching and rest"
+      ]
+    },
+    {
+      "name": "Measles",
+      "symptoms": [
+        "Fever",
+        "cough",
+        "red eyes",
+        "rash"
+      ],
+      "medicines": [
+        "Vitamin A"
+      ],
+      "precautions": [
+        "Get vaccinated and maintain hygiene"
+      ]
+    },
+    {
+      "name": "Mumps",
+      "symptoms": [
+        "Swollen salivary glands",
+        "fever",
+        "headache"
+      ],
+      "medicines": [
+        "Ibuprofen"
+      ],
+      "precautions": [
+        "Apply cold compress and isolate"
+      ]
+    },
+    {
+      "name": "Rubella",
+      "symptoms": [
+        "Rash",
+        "fever",
+        "swollen glands"
+      ],
+      "medicines": [
+        "Paracetamol"
+      ],
+      "precautions": [
+        "Rest and avoid contact with pregnant women"
+      ]
+    },
+    {
+      "name": "Polio",
+      "symptoms": [
+        "Muscle weakness",
+        "paralysis"
+      ],
+      "medicines": [
+        "Supportive Therapy"
+      ],
+      "precautions": [
+        "Get vaccinated"
+      ]
+    },
+    {
+      "name": "Tetanus",
+      "symptoms": [
+        "Muscle stiffness",
+        "jaw lock"
+      ],
+      "medicines": [
+        "Metronidazole"
+      ],
+      "precautions": [
+        "Keep wound clean and get vaccinated"
+      ]
+    },
+    {
+      "name": "Rabies",
+      "symptoms": [
+        "Anxiety",
+        "hallucinations",
+        "hydrophobia"
+      ],
+      "medicines": [
+        "Rabies Vaccine"
+      ],
+      "precautions": [
+        "Wash bite area and seek medical help"
+      ]
+    },
+    {
+      "name": "HIV/AIDS",
+      "symptoms": [
+        "Weight loss",
+        "fever",
+        "night sweats"
+      ],
+      "medicines": [
+        "Antiretroviral Therapy"
+      ],
+      "precautions": [
+        "Practice safe sex and avoid sharing needles"
+      ]
+    },
+    {
+      "name": "Ebola",
+      "symptoms": [
+        "Fever",
+        "bleeding",
+        "weakness"
+      ],
+      "medicines": [
+        "Supportive Therapy"
+      ],
+      "precautions": [
+        "Isolate patient and hydration"
+      ]
+    },
+    {
+      "name": "Zika Virus",
+      "symptoms": [
+        "Rash",
+        "conjunctivitis",
+        "fever"
+      ],
+      "medicines": [
+        "Paracetamol"
+      ],
+      "precautions": [
+        "Prevent mosquito bites"
+      ]
+    },
+    {
+      "name": "Leprosy",
+      "symptoms": [
+        "Numbness",
+        "skin patches"
+      ],
+      "medicines": [
+        "Dapsone"
+      ],
+      "precautions": [
+        "Maintain hygiene and regular medication"
+      ]
+    },
+    {
+      "name": "Plague",
+      "symptoms": [
+        "Swollen lymph nodes",
+        "fever"
+      ],
+      "medicines": [
+        "Streptomycin"
+      ],
+      "precautions": [
+        "Avoid rodents and fleas"
+      ]
+    },
+    {
+      "name": "Yellow Fever",
+      "symptoms": [
+        "Fever",
+        "jaundice",
+        "bleeding"
+      ],
+      "medicines": [
+        "Supportive Care"
+      ],
+      "precautions": [
+        "Get vaccinated and prevent mosquito bites"
+      ]
+    },
+    {
+      "name": "Japanese Encephalitis",
+      "symptoms": [
+        "Headache",
+        "seizures",
+        "confusion"
+      ],
+      "medicines": [
+        "Supportive Therapy"
+      ],
+      "precautions": [
+        "Mosquito prevention"
+      ]
+    },
+    {
+      "name": "Filariasis",
+      "symptoms": [
+        "Swelling of limbs",
+        "fever"
+      ],
+      "medicines": [
+        "Diethylcarbamazine"
+      ],
+      "precautions": [
+        "Prevent mosquito bites"
+      ]
+    },
+    {
+      "name": "Whooping Cough",
+      "symptoms": [
+        "Severe coughing fits",
+        "vomiting"
+      ],
+      "medicines": [
+        "Erythromycin"
+      ],
+      "precautions": [
+        "Stay isolated and vaccinated"
+      ]
+    },
+    {
+      "name": "Bronchitis",
+      "symptoms": [
+        "Cough with mucus",
+        "chest tightness"
+      ],
+      "medicines": [
+        "Amoxicillin"
+      ],
+      "precautions": [
+        "Avoid smoke and rest"
+      ]
+    },
+    {
+      "name": "Sinusitis",
+      "symptoms": [
+        "Facial pain",
+        "blocked nose"
+      ],
+      "medicines": [
+        "Decongestants"
+      ],
+      "precautions": [
+        "Steam inhalation"
+      ]
+    },
+    {
+      "name": "Migraine",
+      "symptoms": [
+        "Severe headache",
+        "nausea",
+        "sensitivity to light"
+      ],
+      "medicines": [
+        "Sumatriptan"
+      ],
+      "precautions": [
+        "Avoid triggers and stress"
+      ]
+    },
+    {
+      "name": "Stroke",
+      "symptoms": [
+        "Sudden weakness",
+        "speech difficulty"
+      ],
+      "medicines": [
+        "Aspirin"
+      ],
+      "precautions": [
+        "Regular exercise and BP control"
+      ]
+    },
+    {
+      "name": "Heart Attack",
+      "symptoms": [
+        "Chest pain",
+        "shortness of breath"
+      ],
+      "medicines": [
+        "Clopidogrel"
+      ],
+      "precautions": [
+        "Healthy diet and reduce stress"
+      ]
+    },
+    {
+      "name": "Arrhythmia",
+      "symptoms": [
+        "Irregular heartbeat",
+        "dizziness"
+      ],
+      "medicines": [
+        "Amiodarone"
+      ],
+      "precautions": [
+        "Limit caffeine and monitor heart"
+      ]
+    },
+    {
+      "name": "Anemia",
+      "symptoms": [
+        "Fatigue",
+        "pale skin",
+        "dizziness"
+      ],
+      "medicines": [
+        "Iron Supplements"
+      ],
+      "precautions": [
+        "Eat iron-rich food"
+      ]
+    },
+    {
+      "name": "Arthritis",
+      "symptoms": [
+        "Joint pain",
+        "stiffness",
+        "swelling"
+      ],
+      "medicines": [
+        "Ibuprofen"
+      ],
+      "precautions": [
+        "Regular exercise and physiotherapy"
+      ]
+    },
+    {
+      "name": "Osteoporosis",
+      "symptoms": [
+        "Bone weakness",
+        "fractures"
+      ],
+      "medicines": [
+        "Calcium",
+        "Vitamin D"
+      ],
+      "precautions": [
+        "Weight-bearing exercises"
+      ]
+    },
+    {
+      "name": "Gout",
+      "symptoms": [
+        "Joint pain",
+        "swelling",
+        "redness"
+      ],
+      "medicines": [
+        "Allopurinol"
+      ],
+      "precautions": [
+        "Avoid high purine foods"
+      ]
+    },
+    {
+      "name": "Kidney Stones",
+      "symptoms": [
+        "Severe back pain",
+        "blood in urine"
+      ],
+      "medicines": [
+        "Tamsulosin"
+      ],
+      "precautions": [
+        "Drink plenty of water"
+      ]
+    },
+    {
+      "name": "UTI",
+      "symptoms": [
+        "Painful urination",
+        "frequent urge"
+      ],
+      "medicines": [
+        "Nitrofurantoin"
+      ],
+      "precautions": [
+        "Maintain good hygiene"
+      ]
+    },
+    {
+      "name": "Prostate Enlargement",
+      "symptoms": [
+        "Weak urine stream",
+        "frequent urination"
+      ],
+      "medicines": [
+        "Tamsulosin"
+      ],
+      "precautions": [
+        "Avoid caffeine and monitor urination"
+      ]
+    },
+    {
+      "name": "Liver Cirrhosis",
+      "symptoms": [
+        "Fatigue",
+        "jaundice",
+        "swelling in legs"
+      ],
+      "medicines": [
+        "Lactulose"
+      ],
+      "precautions": [
+        "Avoid alcohol completely"
+      ]
+    },
+    {
+      "name": "Gallstones",
+      "symptoms": [
+        "Abdominal pain",
+        "nausea",
+        "vomiting"
+      ],
+      "medicines": [
+        "Ursodiol"
+      ],
+      "precautions": [
+        "Eat low-fat diet"
+      ]
+    },
+    {
+      "name": "Pancreatitis",
+      "symptoms": [
+        "Abdominal pain",
+        "vomiting",
+        "fever"
+      ],
+      "medicines": [
+        "IV Fluids",
+        "Painkillers"
+      ],
+      "precautions": [
+        "Avoid alcohol and fatty foods"
+      ]
+    },
+    {
+      "name": "Gastritis",
+      "symptoms": [
+        "Stomach pain",
+        "nausea",
+        "bloating"
+      ],
+      "medicines": [
+        "Omeprazole"
+      ],
+      "precautions": [
+        "Avoid spicy food"
+      ]
+    },
+    {
+      "name": "Peptic Ulcer",
+      "symptoms": [
+        "Burning stomach pain",
+        "nausea"
+      ],
+      "medicines": [
+        "Ranitidine"
+      ],
+      "precautions": [
+        "Avoid alcohol and smoking"
+      ]
+    },
+    {
+      "name": "GERD",
+      "symptoms": [
+        "Heartburn",
+        "regurgitation",
+        "chest pain"
+      ],
+      "medicines": [
+        "Pantoprazole"
+      ],
+      "precautions": [
+        "Eat small meals and avoid lying down after eating"
+      ]
+    },
+    {
+      "name": "Constipation",
+      "symptoms": [
+        "Hard stools",
+        "bloating",
+        "discomfort"
+      ],
+      "medicines": [
+        "Laxatives"
+      ],
+      "precautions": [
+        "Eat fiber-rich food"
+      ]
+    },
+    {
+      "name": "Diarrhea",
+      "symptoms": [
+        "Loose stools",
+        "dehydration"
+      ],
+      "medicines": [
+        "ORS"
+      ],
+      "precautions": [
+        "Stay hydrated"
+      ]
+    },
+    {
+      "name": "Hemorrhoids",
+      "symptoms": [
+        "Rectal pain",
+        "bleeding"
+      ],
+      "medicines": [
+        "Hydrocortisone Cream"
+      ],
+      "precautions": [
+        "Eat high-fiber diet"
+      ]
+    },
+    {
+      "name": "Appendicitis",
+      "symptoms": [
+        "Severe abdominal pain",
+        "nausea"
+      ],
+      "medicines": [
+        "Surgery"
+      ],
+      "precautions": [
+        "Avoid self-medication"
+      ]
+    },
+    {
+      "name": "Hernia",
+      "symptoms": [
+        "Lump in abdomen",
+        "pain on lifting"
+      ],
+      "medicines": [
+        "Surgery"
+      ],
+      "precautions": [
+        "Avoid heavy lifting"
+      ]
+    },
+    {
+      "name": "Astigmatism",
+      "symptoms": [
+        "Blurred vision",
+        "headache"
+      ],
+      "medicines": [
+        "Glasses"
+      ],
+      "precautions": [
+        "Regular eye checkup"
+      ]
+    },
+    {
+      "name": "Cataract",
+      "symptoms": [
+        "Cloudy vision",
+        "glare sensitivity"
+      ],
+      "medicines": [
+        "Surgery"
+      ],
+      "precautions": [
+        "Wear sunglasses"
+      ]
+    },
+    {
+      "name": "Glaucoma",
+      "symptoms": [
+        "Eye pain",
+        "vision loss"
+      ],
+      "medicines": [
+        "Timolol Eye Drops"
+      ],
+      "precautions": [
+        "Regular eye checkups"
+      ]
+    },
+    {
+      "name": "Conjunctivitis",
+      "symptoms": [
+        "Redness",
+        "itching",
+        "watery eyes"
+      ],
+      "medicines": [
+        "Ciprofloxacin Eye Drops"
+      ],
+      "precautions": [
+        "Avoid touching eyes"
+      ]
+    },
+    {
+      "name": "Otitis Media",
+      "symptoms": [
+        "Ear pain",
+        "fever",
+        "irritability"
+      ],
+      "medicines": [
+        "Amoxicillin"
+      ],
+      "precautions": [
+        "Avoid loud sounds and keep ears dry"
+      ]
+    },
+    {
+      "name": "Hearing Loss",
+      "symptoms": [
+        "Difficulty hearing",
+        "muffled speech"
+      ],
+      "medicines": [
+        "Hearing Aids"
+      ],
+      "precautions": [
+        "Avoid noise exposure"
+      ]
+    },
+    {
+      "name": "Skin Allergy",
+      "symptoms": [
+        "Itching",
+        "rash",
+        "redness"
+      ],
+      "medicines": [
+        "Antihistamines"
+      ],
+      "precautions": [
+        "Avoid allergens"
+      ]
+    },
+    {
+      "name": "Eczema",
+      "symptoms": [
+        "Itchy",
+        "dry skin patches"
+      ],
+      "medicines": [
+        "Hydrocortisone Cream"
+      ],
+      "precautions": [
+        "Keep skin moisturized"
+      ]
+    },
+    {
+      "name": "Psoriasis",
+      "symptoms": [
+        "Scaly patches",
+        "itching"
+      ],
+      "medicines": [
+        "Methotrexate"
+      ],
+      "precautions": [
+        "Avoid stress and alcohol"
+      ]
+    },
+    {
+      "name": "Acne",
+      "symptoms": [
+        "Pimples",
+        "oily skin"
+      ],
+      "medicines": [
+        "Benzoyl Peroxide"
+      ],
+      "precautions": [
+        "Wash face twice daily"
+      ]
+    },
+    {
+      "name": "Scabies",
+      "symptoms": [
+        "Intense itching",
+        "rash"
+      ],
+      "medicines": [
+        "Permethrin Cream"
+      ],
+      "precautions": [
+        "Wash clothes and bedding"
+      ]
+    },
+    {
+      "name": "Ringworm",
+      "symptoms": [
+        "Circular rash",
+        "itching"
+      ],
+      "medicines": [
+        "Clotrimazole Cream"
+      ],
+      "precautions": [
+        "Maintain hygiene"
+      ]
+    },
+    {
+      "name": "Vitiligo",
+      "symptoms": [
+        "White skin patches"
+      ],
+      "medicines": [
+        "Corticosteroid Cream"
+      ],
+      "precautions": [
+        "Sun protection"
+      ]
+    },
+    {
+      "name": "Leukemia",
+      "symptoms": [
+        "Fatigue",
+        "frequent infections"
+      ],
+      "medicines": [
+        "Chemotherapy"
+      ],
+      "precautions": [
+        "Regular follow-up"
+      ]
+    },
+    {
+      "name": "Lymphoma",
+      "symptoms": [
+        "Swollen lymph nodes",
+        "fever"
+      ],
+      "medicines": [
+        "Chemotherapy"
+      ],
+      "precautions": [
+        "Avoid infections"
+      ]
+    },
+    {
+      "name": "Breast Cancer",
+      "symptoms": [
+        "Lump in breast",
+        "pain"
+      ],
+      "medicines": [
+        "Tamoxifen"
+      ],
+      "precautions": [
+        "Regular screening"
+      ]
+    },
+    {
+      "name": "Lung Cancer",
+      "symptoms": [
+        "Persistent cough",
+        "chest pain"
+      ],
+      "medicines": [
+        "Chemotherapy"
+      ],
+      "precautions": [
+        "Avoid smoking"
+      ]
+    },
+    {
+      "name": "Prostate Cancer",
+      "symptoms": [
+        "Difficulty urinating",
+        "pelvic pain"
+      ],
+      "medicines": [
+        "Hormonal Therapy"
+      ],
+      "precautions": [
+        "Regular checkup"
+      ]
+    },
+    {
+      "name": "Colon Cancer",
+      "symptoms": [
+        "Blood in stool",
+        "abdominal pain"
+      ],
+      "medicines": [
+        "Chemotherapy"
+      ],
+      "precautions": [
+        "Eat high-fiber diet"
+      ]
+    },
+    {
+      "name": "Skin Cancer",
+      "symptoms": [
+        "Skin growth",
+        "bleeding mole"
+      ],
+      "medicines": [
+        "Surgery"
+      ],
+      "precautions": [
+        "Use sunscreen"
+      ]
+    },
+    {
+      "name": "Brain Tumor",
+      "symptoms": [
+        "Headache",
+        "seizures",
+        "nausea"
+      ],
+      "medicines": [
+        "Surgery"
+      ],
+      "precautions": [
+        "Regular MRI scans"
+      ]
+    },
+    {
+      "name": "Epilepsy",
+      "symptoms": [
+        "Seizures",
+        "loss of consciousness"
+      ],
+      "medicines": [
+        "Carbamazepine"
+      ],
+      "precautions": [
+        "Take medicines regularly"
+      ]
+    },
+    {
+      "name": "Parkinson's Disease",
+      "symptoms": [
+        "Tremors",
+        "stiffness",
+        "slow movement"
+      ],
+      "medicines": [
+        "Levodopa"
+      ],
+      "precautions": [
+        "Regular exercise"
+      ]
+    },
+    {
+      "name": "Alzheimer's Disease",
+      "symptoms": [
+        "Memory loss",
+        "confusion"
+      ],
+      "medicines": [
+        "Donepezil"
+      ],
+      "precautions": [
+        "Brain exercises"
+      ]
+    },
+    {
+      "name": "Multiple Sclerosis",
+      "symptoms": [
+        "Weakness",
+        "vision problems"
+      ],
+      "medicines": [
+        "Interferons"
+      ],
+      "precautions": [
+        "Physiotherapy"
+      ]
+    },
+    {
+      "name": "Depression",
+      "symptoms": [
+        "Sadness",
+        "loss of interest"
+      ],
+      "medicines": [
+        "SSRIs (Fluoxetine)"
+      ],
+      "precautions": [
+        "Therapy and exercise"
+      ]
+    },
+    {
+      "name": "Anxiety Disorder",
+      "symptoms": [
+        "Restlessness",
+        "rapid heartbeat"
+      ],
+      "medicines": [
+        "Benzodiazepines"
+      ],
+      "precautions": [
+        "Relaxation techniques"
+      ]
+    },
+    {
+      "name": "Bipolar Disorder",
+      "symptoms": [
+        "Mood swings",
+        "irritability"
+      ],
+      "medicines": [
+        "Lithium"
+      ],
+      "precautions": [
+        "Maintain regular sleep pattern"
+      ]
+    },
+    {
+      "name": "Schizophrenia",
+      "symptoms": [
+        "Hallucinations",
+        "disorganized speech"
+      ],
+      "medicines": [
+        "Antipsychotics"
+      ],
+      "precautions": [
+        "Regular therapy"
+      ]
+    },
+    {
+      "name": "Insomnia",
+      "symptoms": [
+        "Difficulty sleeping",
+        "fatigue"
+      ],
+      "medicines": [
+        "Zolpidem"
+      ],
+      "precautions": [
+        "Maintain sleep hygiene"
+      ]
+    },
+    {
+      "name": "Obesity",
+      "symptoms": [
+        "Weight gain",
+        "fatigue"
+      ],
+      "medicines": [
+        "Orlistat"
+      ],
+      "precautions": [
+        "Exercise and diet control"
+      ]
+    },
+    {
+      "name": "Malnutrition",
+      "symptoms": [
+        "Weakness",
+        "weight loss"
+      ],
+      "medicines": [
+        "Multivitamins"
+      ],
+      "precautions": [
+        "Eat balanced diet"
+      ]
+    },
+    {
+      "name": "Rickets",
+      "symptoms": [
+        "Bone pain",
+        "delayed growth"
+      ],
+      "medicines": [
+        "Vitamin D"
+      ],
+      "precautions": [
+        "Sun exposure"
+      ]
+    },
+    {
+      "name": "Scurvy",
+      "symptoms": [
+        "Bleeding gums",
+        "fatigue"
+      ],
+      "medicines": [
+        "Vitamin C"
+      ],
+      "precautions": [
+        "Eat citrus fruits"
+      ]
+    },
+    {
+      "name": "Goiter",
+      "symptoms": [
+        "Swelling in neck",
+        "hoarseness"
+      ],
+      "medicines": [
+        "Levothyroxine"
+      ],
+      "precautions": [
+        "Iodized salt"
+      ]
+    },
+    {
+      "name": "Thyroid Disorder",
+      "symptoms": [
+        "Fatigue",
+        "weight change"
+      ],
+      "medicines": [
+        "Levothyroxine"
+      ],
+      "precautions": [
+        "Regular thyroid tests"
+      ]
+    },
+    {
+      "name": "Anaphylaxis",
+      "symptoms": [
+        "Difficulty breathing",
+        "rash"
+      ],
+      "medicines": [
+        "Epinephrine"
+      ],
+      "precautions": [
+        "Avoid allergens"
+      ]
+    },
+    {
+      "name": "Sepsis",
+      "symptoms": [
+        "Fever",
+        "rapid heartbeat",
+        "confusion"
+      ],
+      "medicines": [
+        "Broad-spectrum Antibiotics"
+      ],
+      "precautions": [
+        "Immediate hospitalization"
+      ]
+    },
+    {
+      "name": "Meningitis",
+      "symptoms": [
+        "Stiff neck",
+        "fever",
+        "headache"
+      ],
+      "medicines": [
+        "Ceftriaxone"
+      ],
+      "precautions": [
+        "Vaccination and hygiene"
+      ]
+    },
+    {
+      "name": "Encephalitis",
+      "symptoms": [
+        "Fever",
+        "seizures",
+        "confusion"
+      ],
+      "medicines": [
+        "Acyclovir"
+      ],
+      "precautions": [
+        "Rest and hydration"
+      ]
+    },
+    {
+      "name": "Hydrocephalus",
+      "symptoms": [
+        "Head enlargement",
+        "vomiting"
+      ],
+      "medicines": [
+        "Surgery"
+      ],
+      "precautions": [
+        "Regular monitoring"
+      ]
+    },
+    {
+      "name": "Cystic Fibrosis",
+      "symptoms": [
+        "Cough",
+        "breathing difficulty"
+      ],
+      "medicines": [
+        "Ivacaftor"
+      ],
+      "precautions": [
+        "Chest physiotherapy"
+      ]
+    },
+    {
+      "name": "Sickle Cell Anemia",
+      "symptoms": [
+        "Fatigue",
+        "joint pain"
+      ],
+      "medicines": [
+        "Hydroxyurea"
+      ],
+      "precautions": [
+        "Regular blood checkups"
+      ]
+    },
+    {
+      "name": "Hemophilia",
+      "symptoms": [
+        "Excessive bleeding",
+        "bruises"
+      ],
+      "medicines": [
+        "Factor VIII Injection"
+      ],
+      "precautions": [
+        "Avoid injuries"
+      ]
+    }
+  ]
+}
