@@ -47,7 +47,6 @@ These are embedded using sentence-transformers and stored in FAISS for retrieval
 Python
 Streamlit – for the UI
 FAISS (Facebook AI Similarity Search) – for vector search
-RAG (Retrieval-Augmented Generation) – for structured retrieval
 Sentence-Transformers/paraphrase-MiniLM-L3-v2 – for embeddings
 
 📌 Project Structure
